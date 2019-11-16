@@ -8,3 +8,4 @@
 
 - Run the JooqDemoApp
 
+This is basically the 'Getting started section' at [jooq docs](https://www.jooq.org/learn/)
